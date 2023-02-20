@@ -1,0 +1,24 @@
+{
+    "data":[
+        {
+            "root":"https://premiumpos.online/",
+            "server":"https://premiumpos.online/",
+            "support":"https://m.me/premiumpos.software",
+            "connection": "www.facebook.com"
+        },
+        {
+            "server":"https://premium-activation-salapang.herokuapp.com/",
+            "support":"https://m.me/premiumpos.software",
+            "connection": "www.facebook.com"
+            
+        },
+        {
+            "server":"https://premium-activation-salapang.herokuapp.com/",
+            "support":"https://m.me/premiumpos.software",
+            "connection": "www.facebook.com",
+            "usage": "//http://localhost/test/?token=server"
+        }
+    ]
+}
+
+
