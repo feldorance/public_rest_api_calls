@@ -5,13 +5,13 @@
             "support":"https://m.me/premiumpos.software",
             "connection": "www.facebook.com", 
             "used_by":"   ... > application  >  config  >  define_pre.php",
-            "notes" : "Change when domain/connection_test/customersupport is not available."
+            "notes" : "Change when domain/connection_test/customersupport is not available. "
         },
         {
             "server":"",
             "support":"",
             "connection": "",
-            "notes" : "Notes"
+            "notes" : "ROOT is DOMAIN"
             
         }
        
