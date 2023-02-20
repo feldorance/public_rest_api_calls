@@ -2,22 +2,19 @@
     "data":[
         {
             "root":"https://premiumpos.online/",
-            "server":"https://premiumpos.online/",
             "support":"https://m.me/premiumpos.software",
-            "connection": "www.facebook.com"
+            "connection": "www.facebook.com", 
+            "used_by":"   ... > application  >  config  >  define_pre.php",
+            "notes" : "Change when domain/connection_test/customersupport is not available."
         },
         {
-            "server":"https://premium-activation-salapang.herokuapp.com/",
-            "support":"https://m.me/premiumpos.software",
-            "connection": "www.facebook.com"
+            "server":"",
+            "support":"",
+            "connection": "",
+            "notes" : "Notes"
             
-        },
-        {
-            "server":"https://premium-activation-salapang.herokuapp.com/",
-            "support":"https://m.me/premiumpos.software",
-            "connection": "www.facebook.com",
-            "usage": "//http://localhost/test/?token=server"
         }
+       
     ]
 }
 
