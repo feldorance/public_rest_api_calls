@@ -5,7 +5,8 @@
             "support":"https://m.me/premiumpos.software",
             "connection": "www.facebook.com", 
             "used_by":"   ... > application  >  config  >  define_pre.php",
-            "notes" : "Change when domain/connection_test/customersupport is not available. "
+            "notes" : "Change when domain/connection_test/customersupport is not available. ",
+            "latest_ver" : "Premium POS Installer V1.02 - R2.exe"
         },
         {
             "server":"",
