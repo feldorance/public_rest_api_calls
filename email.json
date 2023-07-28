@@ -9,6 +9,13 @@
         "pw":"@eMI|li1!2L",
         "sender":"support@premiumpos.cloud",
 
+        ,
+        {
+            "server":"",
+            "support":"",
+            "connection": "",
+            "notes" : "ROOT is DOMAIN"
+            
         }
        
     ]
