@@ -2,12 +2,12 @@
     "data":[
         {
             "root":"https://premiumpos.cloud/",
-            "support":"https://www.facebook.com/messages/t/222580904791391",
+            "support":"https://www.facebook.com/pepremiumapp",
             "connection": "www.facebook.com", 
             "used_by":"   ... > application  >  config  >  define_pre.php",
             "notes" : "Change when domain/connection_test/customersupport is not available. ",
-            "support_email" : "support@premiumpos.com",
-            "latest_ver" : "Premium POS Installer V1.02 - R2.exe"
+            "support_email" : "support@premiumpos.cloud",
+            "latest_ver" : "Premium POS Installer V1.03 - R0.exe"
         },
         {
             "server":"",
