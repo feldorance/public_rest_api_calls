@@ -1,1 +1,17 @@
-dsa
+{
+    "data":[
+        {
+        "host":"smtp.hostinger.com",
+        "port": 465,
+        "auth":"true",
+        "auth_type":"ssl",
+        "un":"support@premiumpos.cloud",
+        "pw":"@eMI|li1!2L",
+        "sender":"support@premiumpos.cloud",
+
+        }
+       
+    ]
+}
+
+
