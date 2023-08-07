@@ -2,7 +2,7 @@
     "data":[
         {
             "root":"https://premiumpos.cloud/",
-            "support":"https://www.facebook.com/ranzeeee",
+            "support":"https://www.facebook.com/pepremiumapp",
             "connection": "www.facebook.com", 
             "used_by":"   ... > application  >  config  >  define_pre.php",
             "notes" : "Change when domain/connection_test/customersupport is not available. ",
