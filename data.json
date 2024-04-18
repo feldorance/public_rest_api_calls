@@ -9,7 +9,7 @@
             "notes" : "Change when domain/connection_test/customersupport is not available. ",
             "support_email" : "support@premiumpos.cloud",
             "latest_ver" : "Premium POS Installer V1.03 - R0.exe",
-            "usesin": 
+            "usesin": ""
         },
         {
             "server":"",
