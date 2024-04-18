@@ -2,18 +2,20 @@
     "data":[
         {
             "root":"https://premiumpos.cloud/",
+            "main_folder": "/premium-activation/",
             "support":"https://www.facebook.com/pepremiumapp",
             "connection": "www.facebook.com", 
             "used_by":"   ... > application  >  config  >  define_pre.php",
             "notes" : "Change when domain/connection_test/customersupport is not available. ",
             "support_email" : "support@premiumpos.cloud",
-            "latest_ver" : "Premium POS Installer V1.03 - R0.exe"
+            "latest_ver" : "Premium POS Installer V1.03 - R0.exe",
+            "usesin": 
         },
         {
             "server":"",
             "support":"",
             "connection": "",
-            "notes" : "ROOT is DOMAIN"
+            "notes" : "ROOT is DOMAIN, main_folder is the folder uses in webdata"
             
         }
        
