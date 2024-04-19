@@ -2,7 +2,7 @@
     "data":[
         {
             "root":"https://premiumpos.cloud/",
-            "main_folder": "/premium-activation/",
+            "main_folder": "premium-activation",
             "support":"https://www.facebook.com/pepremiumapp",
             "connection": "www.facebook.com", 
             "used_by":"   ... > application  >  config  >  define_pre.php",
