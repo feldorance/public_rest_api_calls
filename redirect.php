@@ -1,8 +1,8 @@
 
 <?php
 
-//if(isset($_GET)) {
-  
-  echo $_GET['this'].'<--';
+if(isset($_GET['this'])) {
+  header("Location: https://example.com/myOtherPage.php");
+}
 
   ?>
