@@ -2,7 +2,7 @@
     "data":[
         {
             "root":"https://premiumpos.cloud/",
-            "main_folder": "main",
+            "main_folder": "/main/",
             "support":"https://www.facebook.com/pepremiumapp",
             "connection": "www.facebook.com", 
             "used_by":"   ... > application  >  config  >  define_pre.php",
