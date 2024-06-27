@@ -1,7 +1,7 @@
 {
     "data":[
         {
-            "root":"https://premiumpos.online/",
+            "root":"premiumpos.online/",
             "main_folder": "main",
             "support":"https://www.facebook.com/pepremiumapp",
             "connection": "www.facebook.com", 
