@@ -7,7 +7,7 @@
             "connection": "www.facebook.com", 
             "used_by":"   ... > application  >  config  >  define_pre.php",
             "notes" : "Change when domain/connection_test/customersupport is not available. ",
-            "support_email" : "support@premiumpos.cloud",
+            "support_email" : "support@premiumpos.online",
             "latest_ver" : "Premium POS Installer Pro V1.0 Release.exe",
             "release_date" : "April 20, 2024, change to premiumpos.online on June 27, 2024",
             "usesin": ""
